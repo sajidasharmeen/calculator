@@ -89,3 +89,6 @@ Z:\ACCP\DISM\C#\C #\my\form\comboboxlect1\combobox\obj\Debug\combobox.csproj.Gen
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\comboboxlect1\combobox\bin\Debug\combobox.exe.config
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\comboboxlect1\combobox\obj\Debug\combobox.exe
 \\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\comboboxlect1\combobox\obj\Debug\combobox.pdb
+C:\Users\sajida\Desktop\calculator\combobox\bin\Debug\combobox.exe.config
+C:\Users\sajida\Desktop\calculator\combobox\obj\Debug\combobox.exe
+C:\Users\sajida\Desktop\calculator\combobox\obj\Debug\combobox.pdb
